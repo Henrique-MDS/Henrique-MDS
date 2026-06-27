@@ -17,5 +17,5 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Henrique-MDSshow_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Henrique-MDS&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-MDS&layout=compact&theme=tokyonight)
