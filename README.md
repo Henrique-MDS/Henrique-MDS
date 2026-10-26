@@ -1,130 +1,30 @@
-<h1 align="center">Olá 👋, eu sou Henrique</h1>
+<div align="center">
 
-<h3 align="center">
-Desenvolvedor Full Stack | Entusiasta de Cibersegurança | Estudante de Tecnologia
-</h3>
+# Olá 👋, eu sou Henrique
 
-<p align="center">
-  <a href="https://github.com/Henrique-MDS">
-    <img src="https://komarev.com/ghpvc/?username=Henrique-MDS&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+<a href="https://henrique-mds.github.io/Portifolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Desenvolvedor+FullStack;React+%7C+TypeScript+%7C+PHP+%7C+SQL;Entusiasta+de+Ciberseguran%C3%A7a" alt="Desenvolvedor FullStack" />
+</a>
+
+<p>
+  <a href="https://henrique-mds.github.io/Portifolio/"><img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=googlechrome&logoColor=0b1120" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/henrique-miguel-717383349/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+<a href="https://henrique-mds.github.io/Portifolio/">
+  <img src="assets/portfolio.gif" alt="Prévia do portfólio" width="720" />
+</a>
+
+</div>
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor apaixonado por tecnologia e resolução de problemas.
-
-🔐 Estudando Cibersegurança de forma ética e responsável.
-
-🌐 Experiência com desenvolvimento Front-end e Back-end.
-
-📚 Atualmente aprofundando conhecimentos em:
-- Segurança da Informação
-- React e Angular
-- TypeScript
-- Python
-- Banco de Dados
-- Arquitetura de Sistemas
-
----
+- 💼 Programador FullStack na **Teknisa** — documentos e notas fiscais, relatórios e SQL de alta complexidade
+- ⭐ Projeto em destaque: [**Finance Tracker**](https://finance-tracker-tau-umber.vercel.app/) — React, TypeScript e Supabase
+- 🔐 Estudando cibersegurança e aprofundando em arquitetura de sistemas
 
 ## 🛠️ Tecnologias
 
-### Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,php,python,nodejs,mysql,postgresql,git,docker&perline=13" alt="Tecnologias" />
 </p>
-
-### Back-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,nodejs" />
-</p>
-
-### Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
-
-### Cibersegurança
-
-- Análise de Vulnerabilidades
-- OWASP Top 10
-- Segurança Web
-- Hardening de Sistemas
-- Redes e Protocolos
-- Segurança em Aplicações
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-MDS&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-MDS&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-MDS&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🎯 Áreas de Interesse
-
-- 🔐 Cibersegurança
-- 🌐 Desenvolvimento Web
-- ⚛️ React
-- 🅰️ Angular
-- 🐍 Python
-- 🐘 PHP
-- 🗄️ SQL
-- ☁️ Cloud Computing
-- 🤖 Inteligência Artificial
-
----
-
-## 📌 Projetos em Destaque
-
-- Sistema de Controle Financeiro
-- Aplicações Full Stack com React e PHP
-- APIs REST
-- Estudos de Cibersegurança
-- Automações com Python
-
----
-
-## 📫 Contato
-
-<p>
-<a href="https://github.com/Henrique-MDS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<div align="center">
-
-### "A tecnologia move o mundo." 🌎
-
-</div>
